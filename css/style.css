@@ -5,7 +5,14 @@ background: green;
 
 }
 
+figure {
+	display: inline-block;
+	margin: 0;
+}
 
+figcaption {
+	margin: 0;
+}
 
 
 
