@@ -3,10 +3,13 @@
 width: 960px;
 background: green;
 
-
 }
 
 
 
-class=image-otis-and-wallace"
-float: left;
+
+
+.text_line {
+
+	clear: both;
+}
