@@ -7,6 +7,42 @@ background: green;
 
 
 
+section {
+
+}
+
+
+#video {
+
+display: block;
+margin-left: 220px;
+margin-right: 220px; 
+}
+
+
+figcaption{
+
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+
+
+#santa {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+
+
+
 figure {
 	display: inline-block;
 	margin: 0;
@@ -14,6 +50,7 @@ figure {
 
 figcaption {
 	margin: 0;
+
 }
 
 
