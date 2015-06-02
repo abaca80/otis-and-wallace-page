@@ -1,3 +1,4 @@
+
 .container {
 
 width: 1080px;
@@ -11,48 +12,53 @@ section {
 
 }
 
-
 #video {
-
 display: block;
 margin-left: 220px;
 margin-right: 220px; 
 }
 
-
 figcaption{
 
 	text-align: center;
-	font-size: 16px;
+	font-size: .75em;
 	font-weight: bold;
+	font-family: Georgia, "New Times Roman", serif
 }
-
-
 
 #santa {
 
 	display: block;
-	margin-left: 170px;
+	margin-left: 120px;
 	margin-right: 170px;
 }
 
+#images figure {
 
-
-
-
-figure {
-	display: inline-block;
-	margin: 0;
-}
-
-figcaption {
-	margin: 0;
+display: inline-block;
+margin-right: 0;
+margin-left: 0; 
 
 }
 
+#banner {
 
+background-color: yellow;
+text-align: center;
 
+}
 
+#intro {
+
+	text-align: center;
+
+}
+
+#footer {
+
+text-align: center;
+
+}
 
 
 
