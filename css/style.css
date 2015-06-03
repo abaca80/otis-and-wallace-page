@@ -12,13 +12,16 @@ section {
 
 }
 
+
+
+
 #video {
-margin-left: 160px;
-margin-right: 160px; 
+	margin-right: 0; 
+	margin-left: 0;
+ 
 }
 
 figcaption{
-
 	text-align: center;
 	font-size: .75em;
 	font-weight: bold;
@@ -64,8 +67,15 @@ h4 {
 	text-align: center;
 }
 
+#video figure {
 
+	float: left;
+}
 
+footer {
+
+	clear: both;
+}
 
 
 
