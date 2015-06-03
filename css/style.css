@@ -1,7 +1,7 @@
 
 .container {
 
-width: 1080px;
+width: 960px;
 background: green;
 
 }
@@ -14,8 +14,8 @@ section {
 
 #video {
 display: block;
-margin-left: 220px;
-margin-right: 220px; 
+margin-left: 160px;
+margin-right: 160px; 
 }
 
 figcaption{
@@ -35,6 +35,8 @@ figcaption{
 
 #images figure {
 
+border: 10px;
+width: 440px;
 display: inline-block;
 margin-right: 0;
 margin-left: 0; 
