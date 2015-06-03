@@ -2,7 +2,7 @@
 .container {
 
 width: 960px;
-background: green;
+background: rgba(20, 255, 100, 55);
 
 }
 
@@ -13,7 +13,6 @@ section {
 }
 
 #video {
-display: block;
 margin-left: 160px;
 margin-right: 160px; 
 }
@@ -29,17 +28,16 @@ figcaption{
 #santa {
 
 	display: block;
-	margin-left: 120px;
-	margin-right: 170px;
+	margin-left: 110px;
+	margin-right: 110px;
 }
 
 #images figure {
 
-border: 10px;
-width: 440px;
+border: 20px;
 display: inline-block;
-margin-right: 0;
-margin-left: 0; 
+margin-right: auto;
+margin-left: auto; 
 
 }
 
