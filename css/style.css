@@ -1,19 +1,15 @@
 
 .container {
 
+margin: 0 auto;
 width: 960px;
 background: rgba(20, 255, 100, 55);
 
 }
 
-
-
-section {
-
+#bio {
+	padding: 10px;
 }
-
-
-
 
 #video {
 	margin-right: 0; 
@@ -68,8 +64,9 @@ h4 {
 }
 
 #video figure {
-
+	width: 49%;
 	float: left;
+
 }
 
 footer {
